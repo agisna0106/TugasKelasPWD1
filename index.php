@@ -9,27 +9,27 @@ include 'nav.php';
 
 <section  class="motor-grid">
     <div class="motor-card">
-        <a href="#">
-            <img src="" alt="Benelli Patagonian Eagle 250">
+        <a href="benelli.php">
+            <img src="assets/PE250.png" alt="Benelli Patagonian Eagle 250">
             <h3>Benelli Patagonian Eagle 250</h3>
         </a>
     </div>
     <div class="motor-card">
-        <a href="#">
-            <img src="" alt="Benelli Patagonian Eagle 250">
-            <h3>Benelli Patagonian Eagle 250</h3>
+        <a href="honda.php">
+            <img src="assets/rebell500.png" alt="Honda Rebell 500">
+            <h3>Honda Rebell 500</h3>
         </a>
     </div>
     <div class="motor-card">
-        <a href="#">
-            <img src="" alt="Benelli Patagonian Eagle 250">
-            <h3>Benelli Patagonian Eagle 250</h3>
+        <a href="yamaha.php">
+            <img src="assets/xsr155.png" alt="Yamaha XSR 155">
+            <h3>Yamaha XSR 155</h3>
         </a>
     </div>
     <div class="motor-card">
-        <a href="#">
-            <img src="" alt="Benelli Patagonian Eagle 250">
-            <h3>Benelli Patagonian Eagle 250</h3>
+        <a href="kawasaki.php">
+            <img src="assets/w175.png" alt="Kawasaki W175">
+            <h3>Kawasaki W175</h3>
         </a>
     </div>
 </section>
